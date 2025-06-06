@@ -7,9 +7,8 @@
 ### 👋 Hey! I'm Hugo Andrade
 
 💻 Back-end developer at Irroba
-🎓 Computer Science background  
-🚀 Currently improving my debugging skills and building APIs  
-🧠 Passionate about code, performance and developer growth  
+🚀 Leveling up in debugging, clean architecture and scalable API design
+🧠 Obsessed with writing efficient code, solving real problems and growing every day
 
 ---
 
