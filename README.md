@@ -6,10 +6,10 @@
 
 ### 👋 Hey! I'm Hugo Andrade
 
-💻 Back-end developer at [Irroba Tecnologia](https://www.irroba.com.br/)  
+💻 Back-end developer at Irroba
 🎓 Computer Science background  
 🚀 Currently improving my debugging skills and building APIs  
-🧠 Passionate about clean code, performance and developer growth  
+🧠 Passionate about code, performance and developer growth  
 
 ---
 
@@ -30,7 +30,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugoandrade001)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/hugoandrade001)
 
-✉️ hugoandrade001@email.com  
+✉️ hugoandrade6@hotmail.com  
 
 ---
 
@@ -56,10 +56,5 @@
 
 ---
 
-### 🥷 Quote of the Day
-
-> Clean code you must. 🍢
-
----
 
 ![Coding](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
