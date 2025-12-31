@@ -1,13 +1,13 @@
 <h1 align="center">Sometimes you gotta run before you can walk </h1>
 
-### There was a developer mastering the dark arts of Java, PHP, Go and Laravel.
+### There was a developer mastering the dark arts of code.
 
 ---
 
 ### 👋 Hey! I'm Hugo Andrade
 
-💻 Back-end developer at Irroba
-🚀 Leveling up in debugging, clean architecture and scalable API design
+💻 Back-end developer at Ecenture
+🚀 So fucking amazing
 🧠 Obsessed with writing efficient code, solving real problems and growing every day
 
 ---
